@@ -1,2 +1,2 @@
 # Basic_Commands
-Repo for cheetsheats/commo commands
+Repo for cheetsheats/common commands
